@@ -99,10 +99,6 @@ Storage Format: Parquet + Snappy Compression
 - Email: onkarphopase026@gmail.com
 - GitHub: [github.com/onkar38](https://github.com/onkar38)
 
-## 📄 License
 
-[Add your license]
-
----
 
 ⭐ If you found this project helpful, please give it a star!
